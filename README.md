@@ -12,7 +12,7 @@ Ce site représente le portfolio d’un développeur web fictif : John Doe.
 https://2kmnpn-3000.csb.app/
 
 🔗 Repository GitHub :  
-https://github.com/mbalde33/portfolio-john-doe3
+https://github.com/mbalde33/portfoliojohndoe3
 
 ---
 
